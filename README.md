@@ -21,16 +21,18 @@ A Deep Learning based end to end project of detecting emotion of human face usin
 ```
 2. Create a new environment.
 3. Activate that environment 
-```conda activate environment_name
+ ```python
+conda activate environment_name
 ```
 4. Install all the denpendencies.
-```pip install  -r requirements.txt
+```python
+pip install  -r requirements.txt
 ```
 5. Now run the project.
  ### To run the web app.
-    5.1 Go to the directory where you have clone the repository.
-    5.2 Type python app.py.
+ Go to the directory where you have clone the repository.
+ Type python app.py .
     
 ### To run it real time.
-    5.3 just run the Emotion detection using Computer Vision.ipynb file in your Jupyter Notebook ide.
+  just run the Emotion detection using Computer Vision.ipynb file in your Jupyter Notebook ide.
  
