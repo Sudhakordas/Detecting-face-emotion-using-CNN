@@ -32,8 +32,10 @@ pip install  -r requirements.txt
 5. Now run the project.
  ### To run the web app.
  Go to the directory where you have clone the repository.
- Type python app.py .
-    
+ Type 
+ ```python
+ python app.py
+  ```
 ### To run it real time.
   just run the Emotion detection using Computer Vision.ipynb file in your Jupyter Notebook ide.
  
