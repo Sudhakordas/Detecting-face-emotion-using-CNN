@@ -17,7 +17,9 @@ A Deep Learning based end to end project of detecting emotion of human face usin
 
 ## How to run this project in your system.
 1. Down load or clone the repository
-$ git clone https://github.com/Sudhakordas/Detecting-face-emotion-using-CNN.git
+```python
+git clone https://github.com/Sudhakordas/Detecting-face-emotion-using-CNN.git
+```
 2. Create a new environment.
 3. Activate that environment 
  ```python
