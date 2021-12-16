@@ -9,3 +9,10 @@ A Deep Learning based end to end project of detecting emotion of human face usin
 ![real time](https://github.com/Sudhakordas/Detecting-face-emotion-using-CNN/blob/master/Image/3-2.JPG)
 ![real time](https://github.com/Sudhakordas/Detecting-face-emotion-using-CNN/blob/master/Image/3idiot1.JPG)
 
+## Step by step workflow 
+1. First i download the [dataset](https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset) from kaggle.
+2. Load and preprocess the data.
+3. Made my CNN model.
+4. Train and evaluate the model.
+
+
